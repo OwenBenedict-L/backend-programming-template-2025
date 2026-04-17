@@ -19,9 +19,6 @@ module.exports = (app) => {
   // Update user
   route.put('/:id', usersController.updateUser);
 
-  // Change password
-  route.put('/:id/change-password', usersController.changePassword);
-
   // Delete user
   route.delete('/:id', usersController.deleteUser);
 };
