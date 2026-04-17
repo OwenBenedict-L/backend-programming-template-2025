@@ -1,4 +1,7 @@
 # Endpoint yang tersedia
+# Nama: Owen Benedict Lukman
+# NIM : 535250067
+
 A. Gacha
 1. Endpoint 1
     ENDPOINT: POST /api/gacha/create
