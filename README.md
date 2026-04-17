@@ -12,7 +12,7 @@ A. Gacha
         "quota": number, (Kuota dari prize)
       }
 
-2. Endpoint "Prizes"
+2. Endpoint 2
     ENDPOINT: GET /api/gacha/create
     URL: http://localhost:5000/api/gacha/prizes
 
